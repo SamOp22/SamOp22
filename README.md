@@ -10,7 +10,7 @@
 - 👨‍💻 All of my projects and work are available at [https://github.com/SamOp22](https://github.com/SamOp22) , [
 https://www.youtube.com/@halogaming9054](https://www.youtube.com/@halogaming9054)
 
-- 💬 Ask me about **Designing , Developing and Editing**
+- 💬 Ask me about **Designing , Developing , Editing and Animation**
 
 - 📫 How to reach me **padmadansamuel@gmail.com**
 
