@@ -16,7 +16,7 @@ https://www.youtube.com/@halogaming9054](https://www.youtube.com/@halogaming9054
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1znE_l746kGhJzX_UDE3Fyd0NoS94p4Sk/view?usp=sharing](https://drive.google.com/file/d/1znE_l746kGhJzX_UDE3Fyd0NoS94p4Sk/view?usp=sharing)
 
-- ⚡ Fun fact **I always try to diy instead of buy**
+- ⚡ Fun fact **I always try to "DIY" instead of "BUY"**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
