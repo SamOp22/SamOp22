@@ -23,7 +23,7 @@
 <a href="https://instagram.com/sam22.op?igshid=zddkntzintm=" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://instagram.com/sam22.op?igshid=zddkntzintm=" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@halogaming9054" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="halo gaming @halogaming9054" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/samop22" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="samop22" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/samuel padmadan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="samuel padmadan" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/padmadansamuel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="samuel padmadan" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/sam22h" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="sam22h" height="30" width="40" /></a>
 </p>
 
