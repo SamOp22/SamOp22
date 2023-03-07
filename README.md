@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samop22&label=Profile%20views&color=0e75b6&style=flat" alt="samop22" /> </p>
 
-- 🌱 I’m currently learning **BlockChain ,Robotics**
+- 🌱 I’m currently learning **BlockChain ,Animation**
 
 - Currently working on project [ETH-VOTE](https://github.com/SamOp22/BlockChain_Voting)
 
