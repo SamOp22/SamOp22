@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samop22&label=Profile%20views&color=0e75b6&style=flat" alt="samop22" /> </p>
 
-- 🌱 I’m currently learning **BlockChain ,Animation**
+- 🌱 I’m currently learning **UI UX ,Animation **
 
-- Currently working on project [ETH-VOTE](https://github.com/SamOp22/BlockChain_Voting)
+- Currently working on project [MEDI-SHARE](https://github.com/Pranav122002/Medi-Share)
 
 - 👨‍💻 All of my projects and work are available at [https://github.com/SamOp22](https://github.com/SamOp22) , [
 https://www.youtube.com/@halogaming9054](https://www.youtube.com/@halogaming9054)
