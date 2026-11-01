@@ -1,39 +1,101 @@
 <h1 align="center">Hi 👋, I'm Samuel Padmadan</h1>
-<h3 align="center">A passionate Creator and Developer</h3>
+<h3 align="center">AI-Powered Full Stack Java Developer in the making</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samop22&label=Profile%20views&color=0e75b6&style=flat" alt="samop22" /> </p>
 
-- 🌱 I’m currently learning **UI UX ,Animation **
+## 🚀 About Me
 
-- Currently working on project [MEDI-SHARE](https://github.com/Pranav122002/Medi-Share)
+I have 2 years of experience working on enterprise warehouse management systems, and I'm now moving into **Java full stack development with AI integration**. I enjoy building real, production-style systems: microservices, clean REST APIs, and applications where AI does something genuinely useful.
 
-- 👨‍💻 All of my projects and work are available at [https://github.com/SamOp22](https://github.com/SamOp22) , [
-https://www.youtube.com/@halogaming9054](https://www.youtube.com/@halogaming9054)
+- 🎯 **Goal:** Java Full Stack Developer role, building AI-powered applications with Spring Boot, React and Spring AI
+- 🔭 **Currently building:** **AI-Powered Incident Intelligence Platform** (see below)
+- 🌱 **Currently learning:** Spring AI, RAG, Microservices (Kafka, Redis), System Design, Docker, AWS and CI/CD
+- 🧩 **Practising:** DSA and problem solving every day
+- 💬 **Ask me about:** Java, Spring Boot, PostgreSQL, REST APIs, Microservices
+- ⚡ **Fun fact:** I always try to "DIY" instead of "BUY"
 
-- 💬 Ask me about **Designing , Developing , Editing and Animation**
+## 🛠️ Featured Project
 
-- 📫 How to reach me **padmadansamuel@gmail.com**
+### AI-Powered Incident Intelligence Platform *(in progress)*
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1znE_l746kGhJzX_UDE3Fyd0NoS94p4Sk/view?usp=sharing](https://drive.google.com/file/d/1znE_l746kGhJzX_UDE3Fyd0NoS94p4Sk/view?usp=sharing)
+A microservices-based platform that ingests alerts from monitored systems, tracks incidents, and uses AI to help engineers find the likely root cause and fix, learning from previously verified resolutions.
 
-- ⚡ Fun fact **I always try to "DIY" instead of "BUY"**
+- **Services:** `api-gateway`, `incident-service`, `ai-investigation-service`, `notification-service`, plus a `demo-payment-service` that acts as an external alert source
+- **Covers many incident types:** DB locks/blocking, timeouts, out-of-memory, disk full, third-party API failures, certificate expiry, cache/queue outages, bad deployments
+- **AI layer:** Spring AI with historical resolutions (engineer-verified root cause and fix) used as context for future investigations
+- **Stack:** Java 21, Spring Boot, Spring Security, PostgreSQL, Flyway, Redis, React, Docker Compose
+- 🔗 Repo: *add your repo link here*
 
-<h3 align="left">Connect with me:</h3>
+## 🧰 Tech Stack
+
+**Languages & Core**
+
 <p align="left">
-<a href="https://linkedin.com/in/samuel-padmadan-875602221/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/samuel-padmadan-875602221/" height="30" width="40" /></a>
-<a href="https://instagram.com/sam22.op?igshid=zddkntzintm=" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://instagram.com/sam22.op?igshid=zddkntzintm=" height="30" width="40" /></a>
-<a href="[
-https://www.youtube.com/@halogaming9054](https://www.youtube.com/@halogaming9054)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="halo gaming @halogaming9054" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/samop22" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="samop22" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/padmadansamuel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="samuel padmadan" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/sam22h" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="sam22h" height="30" width="40" /></a>
+<a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
+<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+**Backend & Data**
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=samop22&show_icons=true&locale=en&layout=compact" alt="samop22" /></p>
+<p align="left">
+<a href="https://spring.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg" alt="spring" width="40" height="40"/></a>
+<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/></a>
+<a href="https://redis.io" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/></a>
+<a href="https://maven.apache.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/maven/maven-original.svg" alt="maven" width="40" height="40"/></a>
+<a href="https://postman.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/></a>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=samop22&show_icons=true&locale=en" alt="samop22" /></p>
+**Frontend**
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=samop22&" alt="samop22" /></p>
+<p align="left">
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>
+<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/></a>
+</p>
+
+**DevOps & Tools**
+
+<p align="left">
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></a>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
+<a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" alt="intellij" width="40" height="40"/></a>
+</p>
+
+## 📈 Learning Roadmap
+
+| Area | Status |
+|---|---|
+| Web Basics (HTML, CSS, JS) | ✅ Done |
+| Core Java | ✅ Done |
+| SQL & Databases (PostgreSQL) | ✅ Done |
+| Spring Boot, JPA, Security, Testing | ✅ Done |
+| DSA & Problem Solving | 🔄 In progress |
+| React | 🔄 In progress |
+| Microservices & Distributed Systems | 🔄 In progress |
+| Design Patterns & System Design | 🔄 In progress |
+| AI Layer (Spring AI, RAG, tool calling) | 🔄 In progress |
+| Docker | ✅ Done |
+| AWS & CI/CD | ⏳ Up next |
+
+## 📫 Connect with me
+
+- 📧 **padmadansamuel@gmail.com**
+- 📄 [My experience / resume](https://drive.google.com/file/d/1znE_l746kGhJzX_UDE3Fyd0NoS94p4Sk/view?usp=sharing)
+- 💻 [GitHub](https://github.com/SamOp22)
+
+<p align="left">
+<a href="https://linkedin.com/in/samuel-padmadan-875602221/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+<a href="https://instagram.com/sam22.op" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@halogaming9054" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/padmadansamuel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/samop22" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="CodeChef" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/sam22h" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Codeforces" height="30" width="40" /></a>
+</p>
+
+## 📊 GitHub Stats
+
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=samop22&show_icons=true&locale=en&layout=compact" alt="Top languages" />
+<img src="https://github-readme-stats.vercel.app/api?username=samop22&show_icons=true&locale=en" alt="GitHub stats" />
+</p>
