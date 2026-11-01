@@ -90,10 +90,3 @@ A microservices-based platform that ingests alerts from monitored systems, track
 <a href="https://www.youtube.com/@HaloGG22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40" /></a>
 <a href="https://leetcode.com/u/Halo22Op/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" /></a>
 </p>
-
-## 📊 GitHub Stats
-
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=samop22&show_icons=true&locale=en&layout=compact" alt="Top languages" />
-<img src="https://github-readme-stats.vercel.app/api?username=samop22&show_icons=true&locale=en" alt="GitHub stats" />
-</p>
